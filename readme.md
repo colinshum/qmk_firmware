@@ -13,10 +13,10 @@
 
 This keymap supports DZ60 Tsangan layouts with features such as:
 
-- Remap `Caps Lock` to `fn`
-- `fn + wasd` arrows
+- Remap `Caps Lock` to `function layer`
+- `function layet + wasd` arrows
 - Media controls on `rshift`, `ralt`, `rsuper`, `rctrl`
-- Mouse controls on `cl` + `ijkl` (movement) + `uo` (for left/right click)
+- Mouse controls on `control layer` + `ijkl` (movement) + `uo` (for left/right click)
 
 Build this firmware in the project's root directory, using the command `make dz60:colinshum`
 
