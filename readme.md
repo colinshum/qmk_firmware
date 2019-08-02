@@ -7,6 +7,21 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/pulse/monthly)
 [![GitHub forks](https://img.shields.io/github/forks/qmk/qmk_firmware.svg?style=social&label=Fork)](https://github.com/qmk/qmk_firmware/)
 
+## Colin's Layouts
+
+[[DZ60]](https://github.com/colinshum/qmk_firmware/blob/master/keyboards/dz60/keymaps/colinshum/keymap.c)
+
+This keymap supports DZ60 Tsangan layouts with features such as:
+
+- Remap `Caps Lock` to `fn`
+- `fn + wasd` arrows
+- Media controls on `rshift`, `ralt`, `rsuper`, `rctrl`
+- Mouse controls on `cl` + `ijkl` (movement) + `uo` (for left/right click)
+
+Build this firmware in the project's root directory, using the command `make dz60:colinshum`
+
+---
+
 This is a keyboard firmware based on the [tmk\_keyboard firmware](https://github.com/tmk/tmk_keyboard) with some useful features for Atmel AVR and ARM controllers, and more specifically, the [OLKB product line](https://olkb.com), the [ErgoDox EZ](https://ergodox-ez.com) keyboard, and the [Clueboard product line](https://clueboard.co).
 
 ## Documentation
