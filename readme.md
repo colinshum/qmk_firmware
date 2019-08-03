@@ -14,6 +14,7 @@
 This keymap supports DZ60 Tsangan layouts with features such as:
 
 - Remap `Caps Lock` to `function layer`
+- Tap `lshift` for `Caps Lock` or hold for `lshift`
 - `function layet + wasd` arrows
 - Media controls on `rshift`, `ralt`, `rsuper`, `rctrl`
 - Mouse controls on `control layer` + `ijkl` (movement) + `uo` (for left/right click)
